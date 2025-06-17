@@ -19,7 +19,7 @@ client = AsyncIOMotorClient(
     tlsCAFile=certifi.where()
 )
 
-db = client["bifrostflow"]  # use your DB name
+db = client["db_name"]  # use your DB name
 
 # Send a ping to confirm a successful connection
 try:
