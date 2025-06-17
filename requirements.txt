@@ -1,0 +1,13 @@
+dotenv~=0.9.9
+python-dotenv~=1.1.0
+motor~=3.7.1
+openai~=1.86.0
+langgraph~=0.4.8
+pymongo~=4.13.0
+pydantic~=2.11.5
+typing_extensions~=4.14.0
+fastapi~=0.115.12
+uvicorn
+
+certifi~=2025.4.26
+typing_extensions~=4.14.0
